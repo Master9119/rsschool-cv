@@ -1,0 +1,19 @@
+.background {
+  padding: 10;
+  width: 100%;
+  background-size: 100%;
+  border: 1;
+  border-radius: 5px;
+  opacity: 0.6;
+}
+
+h3 {
+  font-family: Georgia;
+  color: grey;
+}
+
+.main {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  border: 1; 
+}
